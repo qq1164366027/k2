@@ -12,7 +12,6 @@
 
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
-git checkout v21.02.0
 
 # Add a feed source
 #echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
